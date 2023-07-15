@@ -1,4 +1,4 @@
-Hello! 👋 Welcome to my GitHub profile! I'm [Your Name], a passionate and aspiring front-end developer. This README provides an introduction to my skills, projects, and goals as a front-end developer.
+Hello! 👋 Welcome to my GitHub profile! I'm [Kuldeep], a passionate and aspiring front-end developer. This README provides an introduction to my skills, projects, and goals as a front-end developer.
 
 ## Skills
 

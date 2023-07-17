@@ -20,6 +20,10 @@ As a fresh front-end developer, here are my goals:
 
 ## Connect with Me
 
++my instagram (kuldeep_6849)
++my mail (kuldee528@gmail.com)
+
+
 I'm always eager to connect, learn, and grow as a front-end developer. Feel free to reach out to me through the following channels:
 
 

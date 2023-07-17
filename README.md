@@ -22,7 +22,7 @@ As a fresh front-end developer, here are my goals:
 
 I'm always eager to connect, learn, and grow as a front-end developer. Feel free to reach out to me through the following channels:
 
-- Email: [Your Email Address](kuldee528@gmail.com)
+
 
 Let's learn and code together!
 
